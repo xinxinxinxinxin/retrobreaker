@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="levels">
-        <item>Impossible de mourir(pas de score)</item>
+        <item>Impossible de mourir (pas de score)</item>
         <item>Facile</item>
         <item>Normal</item>
         <item>Difficile</item>
